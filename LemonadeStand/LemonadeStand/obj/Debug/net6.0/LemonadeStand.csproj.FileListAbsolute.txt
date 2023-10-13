@@ -1,0 +1,14 @@
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\110_LemonadeStand_2_2_Players_Final\LemonadeStand\bin\Debug\net6.0\LemonadeStand.exe
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\110_LemonadeStand_2_2_Players_Final\LemonadeStand\bin\Debug\net6.0\LemonadeStand.deps.json
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\110_LemonadeStand_2_2_Players_Final\LemonadeStand\bin\Debug\net6.0\LemonadeStand.runtimeconfig.json
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\110_LemonadeStand_2_2_Players_Final\LemonadeStand\bin\Debug\net6.0\LemonadeStand.dll
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\110_LemonadeStand_2_2_Players_Final\LemonadeStand\bin\Debug\net6.0\LemonadeStand.pdb
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\110_LemonadeStand_2_2_Players_Final\LemonadeStand\obj\Debug\net6.0\LemonadeStand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\110_LemonadeStand_2_2_Players_Final\LemonadeStand\obj\Debug\net6.0\LemonadeStand.AssemblyInfoInputs.cache
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\110_LemonadeStand_2_2_Players_Final\LemonadeStand\obj\Debug\net6.0\LemonadeStand.AssemblyInfo.cs
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\110_LemonadeStand_2_2_Players_Final\LemonadeStand\obj\Debug\net6.0\LemonadeStand.csproj.CoreCompileInputs.cache
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\110_LemonadeStand_2_2_Players_Final\LemonadeStand\obj\Debug\net6.0\LemonadeStand.dll
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\110_LemonadeStand_2_2_Players_Final\LemonadeStand\obj\Debug\net6.0\refint\LemonadeStand.dll
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\110_LemonadeStand_2_2_Players_Final\LemonadeStand\obj\Debug\net6.0\LemonadeStand.pdb
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\110_LemonadeStand_2_2_Players_Final\LemonadeStand\obj\Debug\net6.0\LemonadeStand.genruntimeconfig.cache
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\110_LemonadeStand_2_2_Players_Final\LemonadeStand\obj\Debug\net6.0\ref\LemonadeStand.dll
